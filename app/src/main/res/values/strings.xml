@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaterialDesignNav</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="collection">Collection</string>
+    <string name="others">Others</string>
+    <string name="support">Support</string>
+    <string name="settings">Settings</string>
+    <string name="about">About us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="settings_fragment">Settings fragment</string>
+</resources>
